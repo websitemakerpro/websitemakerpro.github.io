@@ -1,0 +1,34 @@
+html{
+	background-color: gray;
+
+}
+body{
+	ackground: #1BA0AF; /* Для старых браузров */
+    background: linear-gradient(to top, #1BA0AF, #B05210);
+    padding: 10px;
+    border: 1px solid #333;
+	background-color: #FFA07A;
+}
+
+table{
+padding-bottom: 100px ;
+padding-left:250px;
+}
+li{
+    list-style-type: none;
+
+
+}
+.back{
+	text-align: center ;
+}
+h1{
+	text-align: center; 
+}
+.img{
+	text-align: center;
+ 	margin-top: 0px;
+}
+section{
+	background-color: #CE9908;
+}

@@ -1,0 +1,44 @@
+.Headline {
+text-align: center;
+}
+.img{
+padding:10px ; 
+
+}
+head {
+    display: none;
+}
+header{
+	background-color: #CE9908;
+}
+section{
+	background-color: #CE9908;
+}
+footer{
+	background-color: #CE9908;
+}
+body{
+	background: #1BA0AF; /* Для старых браузров */
+    background: linear-gradient(to top, #1BA0AF, #B05210);
+    padding: 10px;
+    border: 1px solid #333;
+	
+
+}
+.text-navbar{
+	background-color: #6495ED ;
+}
+.raspisanie{
+	padding-right: 350px;
+
+}
+.spisok{
+	margin-right: 300px;
+	
+}
+.sostaw{
+	margin-left: 90px;
+}
+
+
+
