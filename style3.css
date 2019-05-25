@@ -2,7 +2,7 @@ html{
 	background-color: gray;
 }
 body{
-	ackground: #1BA0AF; /* Для старых браузров */
+	background: #1BA0AF; 
     background: linear-gradient(to top, #1BA0AF, #B05210);
     padding: 10px;
     border: 1px solid #333;
